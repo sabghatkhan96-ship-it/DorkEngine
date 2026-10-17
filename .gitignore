@@ -1,0 +1,5 @@
+node_modules/ 
+.next/ 
+*.bat 
+*.exe 
+launcher.cs 
